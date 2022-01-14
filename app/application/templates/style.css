@@ -46,3 +46,9 @@
  float: left;
  color: #999;
 }
+
+.form button:hover,
+.form button:active,
+.form button:focus {
+ background: #43a047;
+}
