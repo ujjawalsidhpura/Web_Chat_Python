@@ -1,6 +1,6 @@
 from flask import Blueprint
 from flask import Flask, render_template, url_for, redirect, request, session, jsonify, flash, Blueprint
-from databases import DataBase
+from .database import DataBase
 
 view = Blueprint("views", __name__)
 
