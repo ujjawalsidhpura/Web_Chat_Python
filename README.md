@@ -10,5 +10,5 @@ Make sure to have python 3.6+
 
 ### Server
 
-`cd app `
+`cd app ` <br>
 `python main.py`
